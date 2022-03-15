@@ -1,0 +1,269 @@
+#top {
+    height: 77px;
+    width: auto;
+    /* border: solid orange; */
+    margin-top: -9px;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+
+img {
+    Width: 183px;
+    Height: 52px;
+    /* left: 38px; */
+    margin-left: 153px;
+    margin-top: 14px;
+    float: left;
+}
+
+.pet {
+    float: left;
+}
+
+.pet2 {
+    margin-left: 87px;
+    /* height: 47px; */
+    font-size: 19px;
+    color: rgb(10, 81, 126);
+    margin-top: 27px;
+}
+
+.phn {
+    width: 15px;
+    height: 23px;
+    float: left;
+    margin-top: 25px;
+    margin-left: 87px;
+}
+
+.phn2 {
+    float: left;
+    margin-left: 9px;
+    margin-top: 9px;
+}
+
+.phn3 {
+    font-size: 21px;
+    color: orange;
+}
+.phn3:hover{
+    text-decoration: underline;
+    cursor: pointer;
+
+}
+
+.btn {
+    margin-left: 76px;
+    margin-top: 18px;
+    padding: 10px;
+    width: 160px;
+    background-color: orange;
+    border-radius: 6px;
+    border: 2px solid rgb(211, 154, 50);
+    font-weight: bold;
+    cursor: pointer;
+}
+.btn:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#menu {
+    background-color: black;
+    border: 2px solid black;
+    height: 46px;
+    margin-left: -8px;
+    margin-right: -8px;
+    width: 1346px;
+}
+li a:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+li {
+    float: left;
+    list-style: none;
+}
+
+li a {
+    text-decoration: none;
+    color: white;
+    margin: 25px;
+    padding: 16px;
+}
+
+#org {
+    color: orange;
+}
+
+#bck {
+    position: relative;
+}
+
+#bimg {
+    height: 307px;
+    width: 1350px;
+    margin-left: -8px;
+    margin-top: 0px;
+    opacity: -62px;
+    opacity: 0.8;
+    /* float: left; */
+}
+
+.div1 {
+    position: absolute;
+}
+
+#d1 {
+    top: 43px;
+    font-size: 34px;
+    left: 75px;
+    color: rgb(255, 166, 0);
+    font-weight: bold;
+}
+
+#d2 {
+    top: 160px;
+    font-size: 18px;
+    left: 75px;
+    color: white;
+}
+
+#menu2 {
+    display: inline-block;
+    background-color: #f0eeee;
+    width: 1350px;
+    margin-left: -8px;
+    height: 47px;
+}
+.anc{
+    font-weight: bold;
+    color: black;
+    margin: -16px;
+}
+
+/* #ul2{
+    display: inline-block;
+
+} */
+
+.li2 {
+    /* border: 2px solid chartreuse; */
+    color: black;
+    /* margin: 8px; */
+    padding: 30px;
+    margin-top: -32px;
+    font-weight: bold;
+}
+
+#vec1 {
+    height: 13px;
+    width: 13px;
+    margin-left: 11px;
+    margin-top: 2px;
+}
+
+#vec2 {
+    height: 13px;
+    width: 13px;
+    margin-left: 11px;
+    margin-top: 2px;
+}
+#left{
+    float: left;
+    /* border: 2px solid black; */
+    margin-left: 56px;
+    margin-top: 14px;
+    /* height: auto; */
+    
+    
+}
+#he1{
+    /* border: 2px solid rebeccapurple; */
+    color: rgb(10, 81, 126);
+
+    
+}
+#he2{
+    font-weight: bold;
+    /* font-weight: bold; */
+    font-size: 18px;
+}
+.inhe{
+    margin-left: 23px;
+}
+#inh1{
+    font-size: 21px;
+}
+#inh2{
+    font-size: 33px;
+    color: orange;
+    margin-left: 9px;
+    margin-top: 27px;
+}
+h5{
+    margin-left: 23px;
+}
+#lf{
+    float: left;
+}
+#ri{
+    float: right;
+}
+#logo{
+    height: 220px;
+    margin-left: 4px;
+    width: 307px;
+    margin-top: 2px;
+}
+#right{
+    float: right;
+    margin-right: 133px;
+    /* border: solid; */
+    width: 291px;
+    margin-top: 44px;
+    height: 409px;
+    padding: 20px;
+    
+    border-bottom-left-radius:11px ;
+    border-bottom-right-radius:11px ;
+    background-color: #f0eeee;
+    
+}
+#form{
+    margin-top: 0px;
+}
+.lbl{
+    font-weight: bold;
+    margin-left: 6px;
+    
+}
+.pbox{
+    
+    width: 275px;
+    margin:5px ;
+    height: 34px;
+}
+#mbox{
+    width: 275px;
+    margin-left: 6px;
+    /* margin: 2px; */
+    margin-top: 6px;
+
+}
+#submit{
+    margin: 6px;
+    height: 40px;
+    width: 281px;
+    background-color: orange;
+    font-weight: bold;
+    border-radius: 5px;
+    /* border-block-color: inherit; */
+    border-color: orange;
+    font-size: 15px;
+}
+#submit:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
